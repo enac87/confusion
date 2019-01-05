@@ -55,37 +55,37 @@ export const DISHES = [
     comments: [{
         id: 0,
         rating: 5,
-        comment: "Imagine all the eatables, living in conFusion!",
-        author: "John Lemon",
-        date: "2012-10-16T17:57:28.556094Z"
+        comment: "I'd love to see a video of how it works.",
+        author: "Annie Thomson",
+        date: "2014-11-16T17:57:28.556094Z"
       },
       {
         id: 1,
         rating: 4,
-        comment: "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
-        author: "Paul McVites",
-        date: "2014-09-05T17:57:28.556094Z"
+        comment: "Such delightful.",
+        author: "Richie Valens",
+        date: "2014-09-03T17:57:28.556094Z"
       },
       {
         id: 2,
         rating: 3,
-        comment: "Eat it, just eat it!",
-        author: "Michael Jaikishan",
-        date: "2015-02-13T17:57:28.556094Z"
+        comment: "Mission accomplished. It's magnificent :)",
+        author: "Joe Thomas",
+        date: "2013-10-13T17:57:28.556094Z"
       },
       {
         id: 3,
         rating: 4,
-        comment: "Ultimate, Reaching for the stars!",
-        author: "Ringo Starry",
-        date: "2013-12-02T17:57:28.556094Z"
+        comment: "It's incredible not just sublime!",
+        author: "Gaspar Savoureux",
+        date: "2015-12-02T17:57:28.556094Z"
       },
       {
         id: 4,
         rating: 2,
-        comment: "It's your birthday, we're gonna party!",
-        author: "25 Cent",
-        date: "2011-12-02T17:57:28.556094Z"
+        comment: "Delightful work you have here.",
+        author: "Blitz Zero",
+        date: "2016-11-02T17:57:28.556094Z"
       }
     ]
   },
@@ -101,37 +101,37 @@ export const DISHES = [
       {
         id: 0,
         rating: 5,
-        comment: "Imagine all the eatables, living in conFusion!",
-        author: "John Lemon",
-        date: "2012-10-16T17:57:28.556094Z"
+        comment: "Just fab, friend.",
+        author: "Lilin Sam",
+        date: "2010-10-16T17:57:28.556094Z"
       },
       {
         id: 1,
         rating: 4,
-        comment: "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
-        author: "Paul McVites",
-        date: "2014-09-05T17:57:28.556094Z"
+        comment: "I want to learn this kind of style! Teach me.",
+        author: "Nadia Davies",
+        date: "2011-01-05T17:57:28.556094Z"
       },
       {
         id: 2,
         rating: 3,
-        comment: "Eat it, just eat it!",
-        author: "Michael Jaikishan",
+        comment: "I think I'm crying. It's that good.",
+        author: "Jeff Franco",
         date: "2015-02-13T17:57:28.556094Z"
       },
       {
         id: 3,
         rating: 4,
-        comment: "Ultimate, Reaching for the stars!",
-        author: "Ringo Starry",
-        date: "2013-12-02T17:57:28.556094Z"
+        comment: "Whoa.",
+        author: "Drake",
+        date: "2013-11-02T17:57:28.556094Z"
       },
       {
         id: 4,
         rating: 2,
-        comment: "It's your birthday, we're gonna party!",
-        author: "25 Cent",
-        date: "2011-12-02T17:57:28.556094Z"
+        comment: "Just excellent.",
+        author: "The Guardian",
+        date: "2016-12-02T17:57:28.556094Z"
       }
     ]
   },
@@ -147,37 +147,37 @@ export const DISHES = [
       {
         id: 0,
         rating: 5,
-        comment: "Imagine all the eatables, living in conFusion!",
-        author: "John Lemon",
-        date: "2012-10-16T17:57:28.556094Z"
+        comment: "Ahhhhhhh...",
+        author: "Travis Blake",
+        date: "2010-10-16T17:57:28.556094Z"
       },
       {
         id: 1,
         rating: 4,
-        comment: "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
-        author: "Paul McVites",
-        date: "2014-09-05T17:57:28.556094Z"
+        comment: "I think I'm crying. It's that revolutionary.",
+        author: "Bart Dean",
+        date: "2015-09-05T17:57:28.556094Z"
       },
       {
         id: 2,
         rating: 3,
-        comment: "Eat it, just eat it!",
-        author: "Michael Jaikishan",
-        date: "2015-02-13T17:57:28.556094Z"
+        comment: "Such sick.",
+        author: "Bavarois",
+        date: "2015-09-13T17:57:28.556094Z"
       },
       {
         id: 3,
         rating: 4,
-        comment: "Ultimate, Reaching for the stars!",
-        author: "Ringo Starry",
-        date: "2013-12-02T17:57:28.556094Z"
+        comment: "Super graceful =)",
+        author: "Santiago Faris",
+        date: "2015-12-02T17:57:28.556094Z"
       },
       {
         id: 4,
         rating: 2,
-        comment: "It's your birthday, we're gonna party!",
-        author: "25 Cent",
-        date: "2011-12-02T17:57:28.556094Z"
+        comment: "Found myself staring at it for minutes.",
+        author: "Kingston Mattaus",
+        date: "2018-12-02T17:57:28.556094Z"
       }
     ]
   }
